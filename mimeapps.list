@@ -1,0 +1,9 @@
+[Added Associations]
+image/png=mpv.desktop;
+
+[Default Applications]
+inode/directory=nautilus.desktop
+x-scheme-handler/ror2mm=r2modman.desktop
+application/vnd.powdertoy.save=powdertoy-uk.co.powdertoy.tpt.desktop
+x-scheme-handler/ptsave=powdertoy-uk.co.powdertoy.tpt.desktop
+x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
